@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24"
+    android:tint="#FFFFFF">
+
+    <!-- Left Wing -->
+    <path
+        android:fillAlpha="0.7"
+        android:fillColor="#FFFFFF"
+        android:pathData="M 9.5,4 A 3,3 0 1,1 9.49,4 Z" />
+
+    <!-- Right Wing -->
+    <path
+        android:fillAlpha="0.7"
+        android:fillColor="#FFFFFF"
+        android:pathData="M 14.5,4 A 3,3 0 1,1 14.49,4 Z" />
+
+    <!-- Bee Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 10.5,10 L 14.5,10 A 3.5,3.5 0 0,1 18,13.5 A 3.5,3.5 0 0,1 14.5,17 L 10.5,17 A 3.5,3.5 0 0,1 7,13.5 A 3.5,3.5 0 0,1 10.5,10 Z" />
+
+</vector>

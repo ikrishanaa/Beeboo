@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+
+    <!-- Wings -->
+    <path
+        android:fillAlpha="0.7"
+        android:fillColor="@android:color/white"
+        android:pathData="M 216,141 A 55,55 0 1,1 215.9,141 Z" />
+    <path
+        android:fillAlpha="0.7"
+        android:fillColor="@android:color/white"
+        android:pathData="M 296,141 A 55,55 0 1,1 295.9,141 Z" />
+
+    <!-- Bee Body -->
+    <path
+        android:fillColor="@android:color/white"
+        android:pathData="M 216,236 L 296,236 A 50,50 0 0,1 346,286 A 50,50 0 0,1 296,336 L 216,336 A 50,50 0 0,1 166,286 A 50,50 0 0,1 216,236 Z" />
+
+</vector>
